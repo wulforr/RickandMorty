@@ -18,5 +18,5 @@ class LocationTile extends React.Component{
         )
     }
 }
-
+ 
 export default LocationTile
